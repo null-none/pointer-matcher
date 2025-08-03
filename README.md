@@ -1,5 +1,7 @@
 # pointer-matcher
 
+PointMatcher is a lightweight Python library for comparing two sets of 2D points. It supports both exact and fuzzy matching, and includes visualizations of matched points and their connections.
+
 ```python
 from pointer_matcher.utils import PointMatcher
 
